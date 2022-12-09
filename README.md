@@ -1,6 +1,6 @@
 # TinDog 
 
-###Delpoyment 
+### Delpoyment 
 https://adityalahane-2003.github.io/TinDog/ 
 
 Please have a look at this webpage - Which id responsive for diferent devices ! 
